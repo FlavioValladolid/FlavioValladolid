@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**FlavioValladolid/FlavioValladolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, my name is Flavio Valladolid...
+### Hi, my name is Flavio Valladolid...
 and I'm a **nanotechnology engineer** who likes to solve problems from data, code and statistics.
 
 - 🔭 I’m currently working on ...
